@@ -1,0 +1,4 @@
+customtkinter
+discord_webhook
+elevate
+plyer
